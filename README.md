@@ -1,11 +1,16 @@
 # Learn React Navigation 프로젝트 설명
 
-해당 프로젝트는 도서 **리액트 네이티브를 다루는 기술**의 5장 내용을 실습하기 위한 프로젝트 입니다.
+해당 프로젝트는 도서 : **리액트 네이티브를 다루는 기술**의 5장 내용을 실습하기 위한 프로젝트 입니다.
 
 관련하여 사용된 기술 리뷰는 제 [**블로그**](https://kimssmin.tistory.com)에서 자세히 요약하여 기재하였습니다.
 
+많은 참고 부탁 드립니다.
 
-### 이하 기본 React Native README 가이드 내용
+
+
+### -----------------------------------------------------------
+### --------- 이하 기본 React Native README 가이드 내용 ---------
+### -----------------------------------------------------------
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
